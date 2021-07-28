@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello! 👋
+
+🧰  my current stack: go, nodejs, react, mongo, k8s 
 
 <!--
 **vikasisme/vikasisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
