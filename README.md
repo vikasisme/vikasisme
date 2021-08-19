@@ -1,14 +1,4 @@
-<!-- ### Hello! 👋 -->
-
-  ![image](https://user-images.githubusercontent.com/15150410/127246135-70144be5-5253-404a-bd9a-5341de2344de.png)
-  ![image](https://user-images.githubusercontent.com/15150410/127246205-3e8cf34d-0224-4b7b-95c3-0b552599d1ed.png)
-  ![image](https://user-images.githubusercontent.com/15150410/127247062-4fc5bb5d-9cb2-4d91-b828-923f0345ab32.png)
-  ![image](https://user-images.githubusercontent.com/15150410/127246240-f2f2f424-1a23-4a19-95f1-76ec8ce37b08.png)
-  ![image](https://user-images.githubusercontent.com/15150410/127246359-a971b97f-8d87-4bd1-985e-6964d8dafa10.png) 
-  ![image](https://user-images.githubusercontent.com/15150410/127246395-ef6d5d79-93bd-44c6-9d05-f95d4321b8ca.png)
-
-
-<!--
+### Hello! 👋
 **vikasisme/vikasisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -21,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
